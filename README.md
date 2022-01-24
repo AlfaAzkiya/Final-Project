@@ -1,8 +1,8 @@
 # Final-Project
 # Anggota :
 # 20.83.0500-Alaika Izza Alfa Azkiya
-# 20.83.523-Elias Jeri Snekubun
-# 20.83
+# 20.83.513-Elias Jeri Snekubun
+# 20.83.529-Latif Nugraha Purwa
 
 # Pada final project kali ini kami membuat aplikasi desktop enkripsi dan deskripsi menggunakan python
 # dimana tujuan dari aplikasi ini adalah untuk mengenkripsi file agar terlindungi dai kebocoran infoormasi
